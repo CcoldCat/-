@@ -1,0 +1,10 @@
+/.metadata/
+Servers/
+*.classpath
+*.jsdtscope
+*.prefs
+*.component
+tetr/.settings/
+*.MF
+*.project
+tetr/src/main/webapp/WEB-INF/.gitignore
